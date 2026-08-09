@@ -1,5 +1,7 @@
 # Use Case: Code Interpreter / Data Analysis
 
+**Author fingerprint:** `DBHATT-Debashis2007-SystemDesignPOC-2026` — Debashis Bhattacharjee ([@Debashis2007](https://github.com/Debashis2007))
+
 **YouTube walkthrough:** [Code Interpreter — System Design #Shorts](https://youtu.be/AzS0gaU1PvU)
 
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
