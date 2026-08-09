@@ -7,7 +7,7 @@
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
-**Parent system design:** [07 — Agent Runtime with Hard Containment](./07-agent-runtime-containment.md)
+**Parent system design:** [07 — Agent Runtime with Hard Containment](https://github.com/Debashis2007/code-interpreter/blob/main/07-agent-runtime-containment.md)
 
 ## Users & problem
 
