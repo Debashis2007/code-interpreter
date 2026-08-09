@@ -1,5 +1,7 @@
 # Use Case: Code Interpreter / Data Analysis
 
+**YouTube walkthrough:** [Code Interpreter — System Design #Shorts](https://youtu.be/AzS0gaU1PvU)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -48,6 +50,9 @@ Reuse policy engine + sandbox + egress deny from **07**.
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Code Interpreter — System Design #Shorts](https://youtu.be/AzS0gaU1PvU)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
